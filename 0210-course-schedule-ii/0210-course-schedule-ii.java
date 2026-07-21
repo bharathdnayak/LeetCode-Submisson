@@ -1,51 +1,44 @@
 class Solution {
-    ArrayList<ArrayList<Integer>> adj;
-    int[] state;
-    int[] ans;
-    int idx;
+   
 
     public int[] findOrder(int numCourses, int[][] prerequisites) {
 
-        adj = new ArrayList<>();
-
-        for (int i = 0; i < numCourses; i++) {
+        ArrayList<ArrayList<Integer>> adj=new ArrayList<>();
+        int[] ans=new int[numCourses];
+        int idx=0;
+        for(int i=0;i<numCourses;i++){
             adj.add(new ArrayList<>());
         }
+        int[] indegree=new int[numCourses];
 
-        for (int[] pre : prerequisites) {
-            adj.get(pre[1]).add(pre[0]);
+        for(int[] i:prerequisites){
+            int course=i[0];
+            int pre=i[1];
+            adj.get(pre).add(course);
+            indegree[course]++;
+
         }
-
-        state = new int[numCourses];
-        ans = new int[numCourses];
-        idx = numCourses - 1;
-
-        for (int i = 0; i < numCourses; i++) {
-            if (state[i] == 0) {
-                if (!dfs(i))
-                    return new int[0];
+        Queue<Integer> q=new LinkedList<>();
+        for(int i=0;i<numCourses;i++){
+            if(indegree[i]==0){
+                q.offer(i);
             }
         }
+        while(!q.isEmpty()){
+           
+            int cur=q.poll();
+            ans[idx++]=cur;
+            for(int neig:adj.get(cur)){
 
+                indegree[neig]--;
+                if(indegree[neig]==0){
+                    q.offer(neig);
+                }
+            }
+        }
+                if (idx != numCourses) {
+            return new int[0];
+        }
         return ans;
-    }
-
-    boolean dfs(int node) {
-
-        state[node] = 1; 
-        for (int nei : adj.get(node)) {
-
-            if (state[nei] == 1)
-                return false; 
-
-            if (state[nei] == 0) {
-                if (!dfs(nei))
-                    return false;
-            }
-        }
-
-        state[node] = 2;      
-        ans[idx--] = node;   
-        return true;
     }
 }
