@@ -85,4 +85,8 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Math
+|  |
+| ------- |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 <!---LeetCode Topics End-->
