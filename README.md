@@ -26,6 +26,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0802-find-eventual-safe-states) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1584-min-cost-to-connect-all-points](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1584-min-cost-to-connect-all-points](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
@@ -67,6 +69,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
@@ -94,4 +97,8 @@
 |  |
 | ------- |
 | [2582-pass-the-pillow](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2582-pass-the-pillow) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
