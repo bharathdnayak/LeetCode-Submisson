@@ -101,6 +101,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2582-pass-the-pillow](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2582-pass-the-pillow) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
 | ------- |
@@ -113,4 +114,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0001-two-sum) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
