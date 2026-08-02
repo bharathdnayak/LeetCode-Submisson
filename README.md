@@ -41,6 +41,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0125-valid-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Stack
 |  |
@@ -118,4 +119,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
