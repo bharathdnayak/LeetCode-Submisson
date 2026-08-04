@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 class Solution {
     public int maxFrequency(int[] nums, int k) {
         Arrays.sort(nums);
