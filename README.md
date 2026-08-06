@@ -109,6 +109,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2582-pass-the-pillow](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2582-pass-the-pillow) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
@@ -168,4 +169,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0347-top-k-frequent-elements) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
