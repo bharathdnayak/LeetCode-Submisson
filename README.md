@@ -61,6 +61,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0912-sort-an-array) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1631-path-with-minimum-effort) |
@@ -86,6 +87,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0347-top-k-frequent-elements) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0912-sort-an-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0912-sort-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
@@ -148,6 +150,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0912-sort-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -157,10 +160,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -173,4 +178,16 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/3345-smallest-divisible-digit-product-i) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
