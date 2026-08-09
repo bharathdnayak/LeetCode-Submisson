@@ -65,6 +65,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1631-path-with-minimum-effort) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Matrix
 |  |
