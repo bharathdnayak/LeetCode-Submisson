@@ -62,6 +62,7 @@
 | [0001-two-sum](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0912-sort-an-array) |
@@ -78,6 +79,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0268-missing-number) |
 | [1631-path-with-minimum-effort](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1631-path-with-minimum-effort) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Union-Find
@@ -112,6 +114,7 @@
 | [0007-reverse-integer](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0509-fibonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -130,6 +133,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0347-top-k-frequent-elements) |
 ## Number Theory
 |  |
@@ -157,6 +161,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0912-sort-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -198,4 +203,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0912-sort-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
