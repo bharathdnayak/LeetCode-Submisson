@@ -61,6 +61,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0169-majority-element) |
@@ -102,6 +103,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -180,6 +182,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0912-sort-an-array) |
