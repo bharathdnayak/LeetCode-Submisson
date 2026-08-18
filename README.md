@@ -62,6 +62,7 @@
 | [0001-two-sum](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0075-sort-colors) |
@@ -84,6 +85,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0073-set-matrix-zeroes) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1631-path-with-minimum-effort) |
@@ -127,6 +129,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0509-fibonacci-number) |
