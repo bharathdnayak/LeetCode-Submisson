@@ -64,6 +64,7 @@
 | [0031-next-permutation](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0073-set-matrix-zeroes) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1631-path-with-minimum-effort) |
@@ -141,6 +143,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2582-pass-the-pillow](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2582-pass-the-pillow) |
 ## Minimum Spanning Tree
