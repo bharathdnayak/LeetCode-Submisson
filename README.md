@@ -87,6 +87,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Matrix
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 | [0054-spiral-matrix](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2582-pass-the-pillow](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2582-pass-the-pillow) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
