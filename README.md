@@ -80,6 +80,7 @@
 | [0283-move-zeroes](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0912-sort-an-array) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1584-min-cost-to-connect-all-points) |
@@ -167,6 +168,7 @@
 | [0229-majority-element-ii](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0560-subarray-sum-equals-k) |
 ## Number Theory
 |  |
 | ------- |
@@ -210,6 +212,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0560-subarray-sum-equals-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
