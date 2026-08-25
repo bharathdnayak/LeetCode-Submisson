@@ -96,6 +96,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2965-find-missing-and-repeated-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Matrix
 |  |
 | ------- |
@@ -184,6 +185,7 @@
 | [0347-top-k-frequent-elements](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2965-find-missing-and-repeated-values) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Number Theory
 |  |
 | ------- |
