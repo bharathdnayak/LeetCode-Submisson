@@ -17,6 +17,7 @@
 | [0200-number-of-islands](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0210-course-schedule-ii) |
+| [0542-01-matrix](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0994-rotting-oranges) |
@@ -92,6 +93,7 @@
 | [0283-move-zeroes](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0485-max-consecutive-ones) |
+| [0542-01-matrix](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0875-koko-eating-bananas) |
@@ -114,6 +116,7 @@
 | [0054-spiral-matrix](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1631-path-with-minimum-effort) |
@@ -153,6 +156,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
