@@ -4,6 +4,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0210-course-schedule-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -13,6 +14,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0210-course-schedule-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -83,6 +85,7 @@
 | [0162-find-peak-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0283-move-zeroes) |
@@ -108,6 +111,7 @@
 | [0048-rotate-image](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0200-number-of-islands) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1631-path-with-minimum-effort) |
 | [2965-find-missing-and-repeated-values](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2965-find-missing-and-repeated-values) |
@@ -127,6 +131,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0200-number-of-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1631-path-with-minimum-effort) |
