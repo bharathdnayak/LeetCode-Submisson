@@ -104,6 +104,7 @@
 | [0704-binary-search](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0912-sort-an-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -214,6 +215,7 @@
 | [0347-top-k-frequent-elements](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0560-subarray-sum-equals-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0992-subarrays-with-k-different-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2965-find-missing-and-repeated-values) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Number Theory
@@ -247,6 +249,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0424-longest-repeating-character-replacement) |
+| [0992-subarrays-with-k-different-integers](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0992-subarrays-with-k-different-integers) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
@@ -288,6 +291,7 @@
 | [0169-majority-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0347-top-k-frequent-elements) |
+| [0992-subarrays-with-k-different-integers](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0992-subarrays-with-k-different-integers) |
 ## Quickselect
 |  |
 | ------- |
