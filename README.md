@@ -47,6 +47,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0242-valid-anagram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Stack
 |  |
@@ -202,6 +203,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0560-subarray-sum-equals-k) |
@@ -248,6 +250,7 @@
 | [0088-merge-sorted-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0912-sort-an-array) |
