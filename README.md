@@ -4,6 +4,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0094-binary-tree-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0210-course-schedule-ii) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
@@ -353,4 +355,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0020-valid-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
