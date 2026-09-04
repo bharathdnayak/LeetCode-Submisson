@@ -124,6 +124,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2965-find-missing-and-repeated-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3903-smallest-stable-index-i](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
@@ -285,6 +286,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0560-subarray-sum-equals-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3903-smallest-stable-index-i](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
 | ------- |
