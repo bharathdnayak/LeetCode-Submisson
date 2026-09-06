@@ -9,6 +9,7 @@
 | [0200-number-of-islands](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0210-course-schedule-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0543-diameter-of-binary-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0802-find-eventual-safe-states) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -366,10 +367,16 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0102-binary-tree-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0102-binary-tree-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
