@@ -107,6 +107,7 @@
 | [0229-majority-element-ii](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0496-next-greater-element-i) |
@@ -148,6 +149,7 @@
 | [0035-search-insert-position](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1631-path-with-minimum-effort) |
@@ -250,6 +252,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0287-find-the-duplicate-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Recursion
 |  |
@@ -334,6 +337,7 @@
 | ------- |
 | [0136-single-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0287-find-the-duplicate-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -357,6 +361,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0287-find-the-duplicate-number) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -379,4 +384,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0543-diameter-of-binary-tree) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
