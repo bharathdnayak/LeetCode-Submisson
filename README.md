@@ -61,6 +61,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0567-permutation-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3498-reverse-degree-of-a-string](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -223,6 +224,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2582-pass-the-pillow](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2582-pass-the-pillow) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/3498-reverse-degree-of-a-string) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
