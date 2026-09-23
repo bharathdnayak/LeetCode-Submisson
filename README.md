@@ -132,6 +132,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1584-min-cost-to-connect-all-points](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -166,6 +167,7 @@
 | [0704-binary-search](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Union-Find
 |  |
@@ -249,6 +251,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0567-permutation-in-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0992-subarrays-with-k-different-integers) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2965-find-missing-and-repeated-values](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2965-find-missing-and-repeated-values) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Number Theory
@@ -289,6 +292,7 @@
 | [0567-permutation-in-string](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0567-permutation-in-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0992-subarrays-with-k-different-integers) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
@@ -310,6 +314,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0560-subarray-sum-equals-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3903-smallest-stable-index-i](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
