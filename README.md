@@ -68,6 +68,7 @@
 | [0020-valid-parentheses](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
@@ -107,6 +108,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0162-find-peak-element) |
@@ -210,6 +212,7 @@
 | [0007-reverse-integer](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0509-fibonacci-number) |
