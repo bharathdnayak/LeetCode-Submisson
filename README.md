@@ -433,4 +433,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
