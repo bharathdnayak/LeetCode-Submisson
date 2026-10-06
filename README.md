@@ -61,6 +61,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0567-permutation-in-string) |
 | [0856-score-of-parentheses](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/3498-reverse-degree-of-a-string) |
@@ -74,11 +75,13 @@
 | [0496-next-greater-element-i](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0496-next-greater-element-i) |
 | [0853-car-fleet](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Monotonic Stack
@@ -406,6 +409,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Tree
 |  |
