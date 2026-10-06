@@ -70,6 +70,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0496-next-greater-element-i) |
@@ -284,6 +285,7 @@
 | [0088-merge-sorted-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0283-move-zeroes) |
@@ -293,6 +295,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -398,6 +401,7 @@
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
