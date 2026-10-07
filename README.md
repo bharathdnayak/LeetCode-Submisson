@@ -14,6 +14,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0543-diameter-of-binary-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0802-find-eventual-safe-states) |
+| [0897-increasing-order-search-tree](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0897-increasing-order-search-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -78,6 +79,7 @@
 | [0496-next-greater-element-i](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0496-next-greater-element-i) |
 | [0853-car-fleet](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0856-score-of-parentheses) |
+| [0897-increasing-order-search-tree](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0897-increasing-order-search-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -427,6 +429,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0145-binary-tree-postorder-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0543-diameter-of-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0897-increasing-order-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -438,6 +441,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0145-binary-tree-postorder-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0543-diameter-of-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0897-increasing-order-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
 |  |
@@ -456,6 +460,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0897-increasing-order-search-tree](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0897-increasing-order-search-tree) |
 ## Database
 |  |
 | ------- |
