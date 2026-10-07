@@ -10,6 +10,7 @@
 | [0200-number-of-islands](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0210-course-schedule-ii) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0543-diameter-of-binary-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0802-find-eventual-safe-states) |
@@ -24,6 +25,7 @@
 | [0200-number-of-islands](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0210-course-schedule-ii) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0802-find-eventual-safe-states) |
@@ -423,6 +425,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0145-binary-tree-postorder-traversal) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -433,6 +436,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0145-binary-tree-postorder-traversal) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
@@ -451,6 +455,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Database
 |  |
 | ------- |
