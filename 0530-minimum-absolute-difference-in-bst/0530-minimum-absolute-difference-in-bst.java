@@ -14,29 +14,22 @@
  * }
  */
 class Solution {
+    int minDiff = Integer.MAX_VALUE;
+    TreeNode prev = null;
+
     public int getMinimumDifference(TreeNode root) {
-        Set<Integer> set = new HashSet<>();
-        store(root, set);
+        if (root == null) return minDiff;
 
-        Integer[] arr = set.toArray(new Integer[0]);
+        getMinimumDifference(root.left);
 
-        int ans = Integer.MAX_VALUE;
-
-        for (int i = 0; i < arr.length; i++) {
-            for (int j = i + 1; j < arr.length; j++) {
-                ans = Math.min(ans, Math.abs(arr[i] - arr[j]));
-            }
+        if (prev != null) {
+            minDiff = Math.min(minDiff, root.val - prev.val);
         }
 
-        return ans;
-    }
+        prev = root;
 
-    void store(TreeNode root, Set<Integer> set) {
-        if (root == null) return;
+        getMinimumDifference(root.right);
 
-        set.add(root.val);
-
-        store(root.left, set);
-        store(root.right, set);
+        return minDiff;
     }
 }
