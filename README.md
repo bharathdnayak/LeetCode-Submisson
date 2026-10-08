@@ -229,6 +229,7 @@
 | [0048-rotate-image](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0836-rectangle-overlap) |
@@ -262,6 +263,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0268-missing-number) |
@@ -292,6 +294,7 @@
 | [0143-reorder-list](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0567-permutation-in-string) |
@@ -411,6 +414,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0287-find-the-duplicate-number) |
 ## Bracket Sequences
 |  |
