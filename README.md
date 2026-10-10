@@ -89,6 +89,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2965-find-missing-and-repeated-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -187,6 +189,7 @@
 | [1631-path-with-minimum-effort](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Union-Find
 |  |
 | ------- |
@@ -202,6 +205,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0912-sort-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1631-path-with-minimum-effort) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -336,6 +340,7 @@
 | [0853-car-fleet](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0912-sort-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Prefix Sum
 |  |
 | ------- |
