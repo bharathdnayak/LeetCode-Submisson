@@ -234,6 +234,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0836-rectangle-overlap) |
@@ -308,6 +309,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -392,6 +394,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0287-find-the-duplicate-number) |
 ## Quicksort
