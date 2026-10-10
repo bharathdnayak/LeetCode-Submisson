@@ -155,6 +155,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2917-find-the-k-or-of-an-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2917-find-the-k-or-of-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2965-find-missing-and-repeated-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -399,6 +400,7 @@
 | [0268-missing-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0338-counting-bits) |
+| [2917-find-the-k-or-of-an-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2917-find-the-k-or-of-an-array) |
 ## Quicksort
 |  |
 | ------- |
