@@ -1,6 +1,3 @@
-
-import java.util.*;
-
 class Solution {
     public int findMaximumXOR(int[] nums) {
         int maxXor = 0;
