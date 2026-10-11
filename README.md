@@ -138,6 +138,7 @@
 | [0283-move-zeroes](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0347-top-k-frequent-elements) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0542-01-matrix) |
@@ -278,6 +279,7 @@
 | [0242-valid-anagram](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0347-top-k-frequent-elements) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0560-subarray-sum-equals-k) |
@@ -408,6 +410,7 @@
 | [0268-missing-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0338-counting-bits) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2917-find-the-k-or-of-an-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2917-find-the-k-or-of-an-array) |
 ## Quicksort
 |  |
@@ -499,4 +502,8 @@
 | [0577-employee-bonus](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0577-employee-bonus) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1070-product-sales-analysis-iii](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1070-product-sales-analysis-iii) |
+## Trie
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
