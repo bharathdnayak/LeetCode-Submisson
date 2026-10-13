@@ -131,6 +131,7 @@
 | [0169-majority-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0260-single-number-iii) |
@@ -187,6 +188,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0704-binary-search) |
@@ -326,6 +328,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0567-permutation-in-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0992-subarrays-with-k-different-integers) |
@@ -353,6 +356,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0560-subarray-sum-equals-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1838-frequency-of-the-most-frequent-element) |
