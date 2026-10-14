@@ -86,6 +86,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -147,6 +148,7 @@
 | [0704-binary-search](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0704-binary-search) |
 | [0853-car-fleet](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0912-sort-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0994-rotting-oranges) |
@@ -312,6 +314,7 @@
 | [0283-move-zeroes](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0567-permutation-in-string) |
+| [0881-boats-to-save-people](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0881-boats-to-save-people) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Recursion
 |  |
@@ -350,6 +353,7 @@
 | [0268-missing-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0853-car-fleet) |
+| [0881-boats-to-save-people](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0912-sort-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -512,4 +516,8 @@
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
