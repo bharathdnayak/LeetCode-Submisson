@@ -513,6 +513,7 @@
 | [0584-find-customer-referee](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1070-product-sales-analysis-iii](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1070-product-sales-analysis-iii) |
+| [1873-calculate-special-bonus](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1873-calculate-special-bonus) |
 ## Trie
 |  |
 | ------- |
