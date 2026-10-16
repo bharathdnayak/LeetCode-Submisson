@@ -515,6 +515,7 @@
 | [1070-product-sales-analysis-iii](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1070-product-sales-analysis-iii) |
 | [1527-patients-with-a-condition](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1527-patients-with-a-condition) |
 | [1587-bank-account-summary-ii](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1587-bank-account-summary-ii) |
+| [1757-recyclable-and-low-fat-products](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1873-calculate-special-bonus) |
 ## Trie
 |  |
