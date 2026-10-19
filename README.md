@@ -159,6 +159,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -198,6 +199,7 @@
 | [1631-path-with-minimum-effort](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Union-Find
 |  |
@@ -356,6 +358,7 @@
 | [0881-boats-to-save-people](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0912-sort-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Prefix Sum
 |  |
