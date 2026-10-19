@@ -515,6 +515,7 @@
 | [1070-product-sales-analysis-iii](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1070-product-sales-analysis-iii) |
 | [1527-patients-with-a-condition](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1527-patients-with-a-condition) |
 | [1587-bank-account-summary-ii](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1587-bank-account-summary-ii) |
+| [1693-daily-leads-and-partners](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1757-recyclable-and-low-fat-products) |
 | [1795-rearrange-products-table](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1795-rearrange-products-table) |
