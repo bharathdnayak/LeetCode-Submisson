@@ -68,6 +68,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [2409-count-days-spent-together](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
@@ -255,6 +256,7 @@
 | [0509-fibonacci-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0836-rectangle-overlap) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2409-count-days-spent-together](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2409-count-days-spent-together) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2582-pass-the-pillow](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2582-pass-the-pillow) |
 | [2965-find-missing-and-repeated-values](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2965-find-missing-and-repeated-values) |
