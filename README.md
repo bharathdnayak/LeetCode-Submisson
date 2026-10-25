@@ -15,6 +15,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0802-find-eventual-safe-states) |
 | [0897-increasing-order-search-tree](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0897-increasing-order-search-tree) |
+| [1254-number-of-closed-islands](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -32,6 +33,7 @@
 | [0802-find-eventual-safe-states](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
@@ -155,6 +157,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1254-number-of-closed-islands) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1584-min-cost-to-connect-all-points](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1631-path-with-minimum-effort) |
@@ -184,6 +187,7 @@
 | [0542-01-matrix](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1631-path-with-minimum-effort) |
 | [2965-find-missing-and-repeated-values](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2965-find-missing-and-repeated-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -211,6 +215,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1631-path-with-minimum-effort) |
