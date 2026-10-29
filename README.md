@@ -18,6 +18,7 @@
 | [1254-number-of-closed-islands](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
@@ -37,6 +38,7 @@
 | [1254-number-of-closed-islands](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
@@ -48,6 +50,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1584-min-cost-to-connect-all-points) |
+| [1971-find-if-path-exists-in-graph](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
@@ -223,6 +226,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bharathdnayak/LeetCode-Submisson/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
